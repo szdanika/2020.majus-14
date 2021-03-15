@@ -1,0 +1,27 @@
+14,
+CREATE DATABASE oldtimer
+ENCODING UTF-8 // ez nem jó tho
+
+16,
+SELECT count(autok.kategoriaId) AS 'sportautok-szama'
+FROM autok
+WHERE autok.kategoriaId = 4
+
+17,
+SELECT autok.nev, autok.szin
+FROM AUTOK, kategoriak 
+WHERE autok.kategoriaId = kategoriak.id AND kategoriak.nev = 'limuzin';
+
+18,
+INSERT INTO autok (rendszam,szin,kategoriaId,nev,evjarat,ar)
+VALUES('OT44-01','Fekete-piros','3','GMC Vandura Szupercsapat kiadás','1983','18000');
+
+19,
+SELECT sum(berlesek.mennyiseg) as 'mennyiseg' 
+FROM berlesek, autok, kategoriak
+where berlesek.autoId = autok.id AND autok.kategoriaId = kategoriak.id
+GROUP BY kategoriak.nev
+ORDER BY sum(berlesek.mennyiseg) desc 
+LIMIT 5
+
+20,
