@@ -1,0 +1,10 @@
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\bin\Debug\playfairkodologui.exe.config
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\bin\Debug\playfairkodologui.exe
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\bin\Debug\playfairkodologui.pdb
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\obj\Debug\playfairkodologui.csprojAssemblyReference.cache
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\obj\Debug\playfairkodologui.Form1.resources
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\obj\Debug\playfairkodologui.Properties.Resources.resources
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\obj\Debug\playfairkodologui.csproj.GenerateResource.cache
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\obj\Debug\playfairkodologui.csproj.CoreCompileInputs.cache
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\obj\Debug\playfairkodologui.exe
+D:\2020.május 14\2. Playfair-negyzet\playfairkodologui\obj\Debug\playfairkodologui.pdb

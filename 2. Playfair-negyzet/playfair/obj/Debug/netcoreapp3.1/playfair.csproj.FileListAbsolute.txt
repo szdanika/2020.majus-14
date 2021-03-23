@@ -1,0 +1,13 @@
+D:\2020.május 14\2. Playfair-negyzet\playfair\bin\Debug\netcoreapp3.1\playfair.exe
+D:\2020.május 14\2. Playfair-negyzet\playfair\bin\Debug\netcoreapp3.1\playfair.deps.json
+D:\2020.május 14\2. Playfair-negyzet\playfair\bin\Debug\netcoreapp3.1\playfair.runtimeconfig.json
+D:\2020.május 14\2. Playfair-negyzet\playfair\bin\Debug\netcoreapp3.1\playfair.runtimeconfig.dev.json
+D:\2020.május 14\2. Playfair-negyzet\playfair\bin\Debug\netcoreapp3.1\playfair.dll
+D:\2020.május 14\2. Playfair-negyzet\playfair\bin\Debug\netcoreapp3.1\playfair.pdb
+D:\2020.május 14\2. Playfair-negyzet\playfair\obj\Debug\netcoreapp3.1\playfair.csprojAssemblyReference.cache
+D:\2020.május 14\2. Playfair-negyzet\playfair\obj\Debug\netcoreapp3.1\playfair.csproj.CoreCompileInputs.cache
+D:\2020.május 14\2. Playfair-negyzet\playfair\obj\Debug\netcoreapp3.1\playfair.AssemblyInfoInputs.cache
+D:\2020.május 14\2. Playfair-negyzet\playfair\obj\Debug\netcoreapp3.1\playfair.AssemblyInfo.cs
+D:\2020.május 14\2. Playfair-negyzet\playfair\obj\Debug\netcoreapp3.1\playfair.dll
+D:\2020.május 14\2. Playfair-negyzet\playfair\obj\Debug\netcoreapp3.1\playfair.pdb
+D:\2020.május 14\2. Playfair-negyzet\playfair\obj\Debug\netcoreapp3.1\playfair.genruntimeconfig.cache
